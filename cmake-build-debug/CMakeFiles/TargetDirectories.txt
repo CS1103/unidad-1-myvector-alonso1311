@@ -1,0 +1,3 @@
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/cmake-build-debug/CMakeFiles/Semana2_MyVector.dir
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

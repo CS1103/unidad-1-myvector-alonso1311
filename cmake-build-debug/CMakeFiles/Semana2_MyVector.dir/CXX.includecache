@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/MyVector.cpp
+MyVector.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/MyVector.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/MyVector.h
+
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/main.cpp
+iostream
+-
+cassert
+-
+MyVector.h
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/MyVector.h
+MyVector.cpp
+C:/Users/ALONSO/CLionProjects/POO II_Second/Semana2_MyVector/MyVector.cpp
+
