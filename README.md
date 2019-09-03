@@ -1,8 +1,8 @@
 # My Vector
 
-*Nombre:* Alonso Winston Barrios Silva
+**Nombre:** Alonso Winston Barrios Silva
 
-*Profesor:* Ruben Rivas
+**Profesor:** Ruben Rivas
 
-_Curso:_ POO II
+**Curso:** POO II
 
